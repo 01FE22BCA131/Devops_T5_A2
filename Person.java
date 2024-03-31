@@ -19,9 +19,9 @@ public class Person extends EmployeeDetails{
     }
     public static void main(String[] args) {
         Person p =new Person();
-        p.name = "Ritul S Mamdapur";
+        p.name = "Sneha N Kayakad";
         p.displayName();
-        p.displayAge("17-09-2004");
+        p.displayAge("05-03-2004");
         p.displaydetails();
     }
 }
